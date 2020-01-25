@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Master High Availability Manager and Tools for MySQL, Manager Package
 Name:		mha4mysql-manager
 Version:	0.54
